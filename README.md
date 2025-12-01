@@ -1,1 +1,2 @@
-# Lista5-Laco-de-repeticao-For-JavaScript
+# Lista-05
+Uma lista de exercícios estrutura de repetição
